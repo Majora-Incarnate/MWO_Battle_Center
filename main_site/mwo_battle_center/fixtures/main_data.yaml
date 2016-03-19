@@ -1,0 +1,460 @@
+- model: mwo_battle_center.Code_Group
+  pk: 0
+  fields:
+    name: Techbase
+- model: mwo_battle_center.Code_Group
+  pk: 1
+  fields:
+    name: Gamemode
+- model: mwo_battle_center.Code
+  pk: 0
+  fields:
+    name: Inner Sphere
+    code_group: 0
+- model: mwo_battle_center.Code
+  pk: 1
+  fields:
+    name: Clan
+    code_group: 0
+- model: mwo_battle_center.Code
+  pk: 2
+  fields:
+    name: Skirmish
+    code_group: 1
+- model: mwo_battle_center.Code
+  pk: 3
+  fields:
+    name: Assault
+    code_group: 1
+- model: mwo_battle_center.Code
+  pk: 4
+  fields:
+    name: Conquest
+    code_group: 1
+- model: mwo_battle_center.Code
+  pk: 5
+  fields:
+    name: Domination
+    code_group: 1
+- model: mwo_battle_center.Chassis
+  pk: 1
+  fields:
+    name: Adder
+    weight: 35
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 2
+  fields:
+    name: Archer
+    weight: 70
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 3
+  fields:
+    name: Arctic Cheetah
+    weight: 30
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 4
+  fields:
+    name: Atlas
+    weight: 100
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 5
+  fields:
+    name: Awesome
+    weight: 80
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 6
+  fields:
+    name: Banshee
+    weight: 95
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 7
+  fields:
+    name: Battlemaster
+    weight: 85
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 8
+  fields:
+    name: Black Knight
+    weight: 75
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 9
+  fields:
+    name: Blackjack
+    weight: 45
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 10
+  fields:
+    name: Cataphract
+    weight: 70
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 11
+  fields:
+    name: Catapult
+    weight: 65
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 12
+  fields:
+    name: Centurion
+    weight: 50
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 13
+  fields:
+    name: Cicada
+    weight: 100
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 14
+  fields:
+    name: Commando
+    weight: 25
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 15
+  fields:
+    name: Crab
+    weight: 50
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 16
+  fields:
+    name: Dire Wolf
+    weight: 100
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 17
+  fields:
+    name: Dragon
+    weight: 60
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 18
+  fields:
+    name: Ebon Jaguar
+    weight: 65
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 19
+  fields:
+    name: Enforcer
+    weight: 50
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 20
+  fields:
+    name: Executioner
+    weight: 95
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 21
+  fields:
+    name: Firestarter
+    weight: 35
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 22
+  fields:
+    name: Gargoyle
+    weight: 80
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 23
+  fields:
+    name: Grasshopper
+    weight: 70
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 24
+  fields:
+    name: Griffin
+    weight: 55
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 25
+  fields:
+    name: Ice Ferret
+    weight: 45
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 26
+  fields:
+    name: Jagermech
+    weight: 65
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 27
+  fields:
+    name: Jenner
+    weight: 35
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 28
+  fields:
+    name: Jenner IIC
+    weight: 35
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 29
+  fields:
+    name: King Crab
+    weight: 100
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 30
+  fields:
+    name: Kintaro
+    weight: 55
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 31
+  fields:
+    name: Kit Fox
+    weight: 30
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 32
+  fields:
+    name: Kodiak
+    weight: 100
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 33
+  fields:
+    name: Hellbringer
+    weight: 65
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 34
+  fields:
+    name: Highlander
+    weight: 90
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 35
+  fields:
+    name: Highlander IIC
+    weight: 90
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 36
+  fields:
+    name: Hunchback
+    weight: 50
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 37
+  fields:
+    name: Hunchback IIC
+    weight: 50
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 38
+  fields:
+    name: Locust
+    weight: 20
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 39
+  fields:
+    name: Mad Dog
+    weight: 60
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 40
+  fields:
+    name: Marauder
+    weight: 75
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 41
+  fields:
+    name: Mauler
+    weight: 90
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 42
+  fields:
+    name: Mist Lynx
+    weight: 25
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 43
+  fields:
+    name: Nova
+    weight: 50
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 44
+  fields:
+    name: Orion
+    weight: 75
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 45
+  fields:
+    name: Orion IIC
+    weight: 75
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 46
+  fields:
+    name: Panther
+    weight: 35
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 47
+  fields:
+    name: Phoenix Hawk
+    weight: 45
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 48
+  fields:
+    name: Quickdraw
+    weight: 60
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 49
+  fields:
+    name: Raven
+    weight: 35
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 50
+  fields:
+    name: Rifleman
+    weight: 60
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 51
+  fields:
+    name: Shadow Cat
+    weight: 45
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 52
+  fields:
+    name: Shadow Hawk
+    weight: 55
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 53
+  fields:
+    name: Spider
+    weight: 30
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 54
+  fields:
+    name: Stormcrow
+    weight: 55
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 55
+  fields:
+    name: Thunderbolt
+    weight: 65
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 56
+  fields:
+    name: Timber Wolf
+    weight: 75
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 57
+  fields:
+    name: Trebuchet
+    weight: 50
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 58
+  fields:
+    name: Stalker
+    weight: 85
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 59
+  fields:
+    name: Summoner
+    weight: 70
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 60
+  fields:
+    name: Urbanmech
+    weight: 30
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 61
+  fields:
+    name: Victor
+    weight: 80
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 62
+  fields:
+    name: Vindicator
+    weight: 45
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 63
+  fields:
+    name: Warhammer
+    weight: 70
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 64
+  fields:
+    name: Warhawk
+    weight: 85
+    tech_base: 1
+- model: mwo_battle_center.Chassis
+  pk: 65
+  fields:
+    name: Wolfhound
+    weight: 35
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 66
+  fields:
+    name: Wolverine
+    weight: 55
+    tech_base: 0
+- model: mwo_battle_center.Chassis
+  pk: 67
+  fields:
+    name: Zeus
+    weight: 80
+    tech_base: 0
+- model: mwo_battle_center.Variant
+  pk: 1
+  fields:
+    chassis: 1
+    name: BNC-3E
+- model: mwo_battle_center.Variant
+  pk: 2
+  fields:
+    chassis: 1
+    name: BNC-3M
+- model: mwo_battle_center.Variant
+  pk: 3
+  fields:
+    chassis: 1
+    name: BNC-3S
+- model: mwo_battle_center.Variant
+  pk: 4
+  fields:
+    chassis: 1
+    name: BNC-LM
