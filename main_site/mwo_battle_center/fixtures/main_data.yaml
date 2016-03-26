@@ -439,22 +439,1795 @@
     weight: 80
     tech_base: 0
 - model: mwo_battle_center.Variant
+  pk: 0
+  fields:
+    chassis: 38
+    name: LCT-1E
+
+- model: mwo_battle_center.Variant
   pk: 1
   fields:
-    chassis: 1
-    name: BNC-3E
+    chassis: 38
+    name: LCT-1M
+
 - model: mwo_battle_center.Variant
   pk: 2
   fields:
-    chassis: 1
-    name: BNC-3M
+    chassis: 38
+    name: LCT-1V
+
 - model: mwo_battle_center.Variant
   pk: 3
   fields:
-    chassis: 1
-    name: BNC-3S
+    chassis: 38
+    name: LCT-3M
+
 - model: mwo_battle_center.Variant
   pk: 4
   fields:
+    chassis: 38
+    name: LCT-3S
+
+- model: mwo_battle_center.Variant
+  pk: 5
+  fields:
+    chassis: 38
+    name: LCT-3V
+
+- model: mwo_battle_center.Variant
+  pk: 6
+  fields:
+    chassis: 38
+    name: LCT-PB
+
+- model: mwo_battle_center.Variant
+  pk: 7
+  fields:
+    chassis: 14
+    name: COM-1B
+
+- model: mwo_battle_center.Variant
+  pk: 8
+  fields:
+    chassis: 14
+    name: COM-1D
+
+- model: mwo_battle_center.Variant
+  pk: 9
+  fields:
+    chassis: 14
+    name: COM-2D
+
+- model: mwo_battle_center.Variant
+  pk: 10
+  fields:
+    chassis: 14
+    name: COM-3A
+
+- model: mwo_battle_center.Variant
+  pk: 11
+  fields:
+    chassis: 14
+    name: COM-DK
+
+- model: mwo_battle_center.Variant
+  pk: 12
+  fields:
+    chassis: 53
+    name: SDR-5D
+
+- model: mwo_battle_center.Variant
+  pk: 13
+  fields:
+    chassis: 53
+    name: SDR-5K
+
+- model: mwo_battle_center.Variant
+  pk: 14
+  fields:
+    chassis: 53
+    name: SDR-5V
+
+- model: mwo_battle_center.Variant
+  pk: 15
+  fields:
+    chassis: 53
+    name: SDR-A
+
+- model: mwo_battle_center.Variant
+  pk: 16
+  fields:
+    chassis: 60
+    name: UM-R60
+
+- model: mwo_battle_center.Variant
+  pk: 17
+  fields:
+    chassis: 60
+    name: UM-R60L
+
+- model: mwo_battle_center.Variant
+  pk: 18
+  fields:
+    chassis: 60
+    name: UM-R63
+
+- model: mwo_battle_center.Variant
+  pk: 19
+  fields:
+    chassis: 21
+    name: FS9-A
+
+- model: mwo_battle_center.Variant
+  pk: 20
+  fields:
+    chassis: 21
+    name: FS9-H
+
+- model: mwo_battle_center.Variant
+  pk: 21
+  fields:
+    chassis: 21
+    name: FS9-K
+
+- model: mwo_battle_center.Variant
+  pk: 22
+  fields:
+    chassis: 21
+    name: FS9-S
+
+- model: mwo_battle_center.Variant
+  pk: 23
+  fields:
+    chassis: 21
+    name: FS9-E
+
+- model: mwo_battle_center.Variant
+  pk: 24
+  fields:
+    chassis: 27
+    name: JR7-D
+
+- model: mwo_battle_center.Variant
+  pk: 25
+  fields:
+    chassis: 27
+    name: JR7-F
+
+- model: mwo_battle_center.Variant
+  pk: 26
+  fields:
+    chassis: 27
+    name: JR7-K
+
+- model: mwo_battle_center.Variant
+  pk: 27
+  fields:
+    chassis: 27
+    name: JR7-O
+
+- model: mwo_battle_center.Variant
+  pk: 28
+  fields:
+    chassis: 46
+    name: PNT-8Z
+
+- model: mwo_battle_center.Variant
+  pk: 29
+  fields:
+    chassis: 46
+    name: PNT-9R
+
+- model: mwo_battle_center.Variant
+  pk: 30
+  fields:
+    chassis: 46
+    name: PNT-10K
+
+- model: mwo_battle_center.Variant
+  pk: 31
+  fields:
+    chassis: 46
+    name: PNT-10P
+
+- model: mwo_battle_center.Variant
+  pk: 32
+  fields:
+    chassis: 49
+    name: RVN-2X
+
+- model: mwo_battle_center.Variant
+  pk: 33
+  fields:
+    chassis: 49
+    name: RVN-3L
+
+- model: mwo_battle_center.Variant
+  pk: 34
+  fields:
+    chassis: 49
+    name: RVN-4X
+
+- model: mwo_battle_center.Variant
+  pk: 35
+  fields:
+    chassis: 49
+    name: RVN-H
+
+- model: mwo_battle_center.Variant
+  pk: 36
+  fields:
+    chassis: 65
+    name: WLF-1
+
+- model: mwo_battle_center.Variant
+  pk: 37
+  fields:
+    chassis: 65
+    name: WLF-1A
+
+- model: mwo_battle_center.Variant
+  pk: 38
+  fields:
+    chassis: 65
+    name: WLF-1B
+
+- model: mwo_battle_center.Variant
+  pk: 39
+  fields:
+    chassis: 65
+    name: WLF-2
+
+- model: mwo_battle_center.Variant
+  pk: 40
+  fields:
+    chassis: 42
+    name: MLX-A
+
+- model: mwo_battle_center.Variant
+  pk: 41
+  fields:
+    chassis: 42
+    name: MLX-B
+
+- model: mwo_battle_center.Variant
+  pk: 42
+  fields:
+    chassis: 42
+    name: MLX-C
+
+- model: mwo_battle_center.Variant
+  pk: 43
+  fields:
+    chassis: 42
+    name: MLX-D
+
+- model: mwo_battle_center.Variant
+  pk: 44
+  fields:
+    chassis: 42
+    name: MLX-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 45
+  fields:
+    chassis: 3
+    name: ACH-A
+
+- model: mwo_battle_center.Variant
+  pk: 46
+  fields:
+    chassis: 3
+    name: ACH-B
+
+- model: mwo_battle_center.Variant
+  pk: 47
+  fields:
+    chassis: 3
+    name: ACH-C
+
+- model: mwo_battle_center.Variant
+  pk: 48
+  fields:
+    chassis: 3
+    name: ACH-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 49
+  fields:
+    chassis: 31
+    name: KFX-C
+
+- model: mwo_battle_center.Variant
+  pk: 50
+  fields:
+    chassis: 31
+    name: KFX-D
+
+- model: mwo_battle_center.Variant
+  pk: 51
+  fields:
+    chassis: 31
+    name: KFX-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 52
+  fields:
+    chassis: 31
+    name: KFX-S
+
+- model: mwo_battle_center.Variant
+  pk: 53
+  fields:
     chassis: 1
-    name: BNC-LM
+    name: ADR-A
+
+- model: mwo_battle_center.Variant
+  pk: 54
+  fields:
+    chassis: 1
+    name: ADR-B
+
+- model: mwo_battle_center.Variant
+  pk: 55
+  fields:
+    chassis: 1
+    name: ADR-D
+
+- model: mwo_battle_center.Variant
+  pk: 56
+  fields:
+    chassis: 1
+    name: ADR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 57
+  fields:
+    chassis: 27
+    name: JR7-IIC-1
+
+- model: mwo_battle_center.Variant
+  pk: 58
+  fields:
+    chassis: 27
+    name: JR7-IIC-2
+
+- model: mwo_battle_center.Variant
+  pk: 59
+  fields:
+    chassis: 27
+    name: JR7-IIC-3
+
+- model: mwo_battle_center.Variant
+  pk: 60
+  fields:
+    chassis: 27
+    name: JR7-IIC-A
+
+- model: mwo_battle_center.Variant
+  pk: 61
+  fields:
+    chassis: 13
+    name: CDA-2A
+
+- model: mwo_battle_center.Variant
+  pk: 62
+  fields:
+    chassis: 13
+    name: CDA-2B
+
+- model: mwo_battle_center.Variant
+  pk: 63
+  fields:
+    chassis: 13
+    name: CDA-3C
+
+- model: mwo_battle_center.Variant
+  pk: 64
+  fields:
+    chassis: 13
+    name: CDA-3F
+
+- model: mwo_battle_center.Variant
+  pk: 65
+  fields:
+    chassis: 13
+    name: CDA-3M
+
+- model: mwo_battle_center.Variant
+  pk: 66
+  fields:
+    chassis: 13
+    name: CDA-X5
+
+- model: mwo_battle_center.Variant
+  pk: 67
+  fields:
+    chassis: 9
+    name: BJ-1
+
+- model: mwo_battle_center.Variant
+  pk: 68
+  fields:
+    chassis: 9
+    name: BJ-1DC
+
+- model: mwo_battle_center.Variant
+  pk: 69
+  fields:
+    chassis: 9
+    name: BJ-1X
+
+- model: mwo_battle_center.Variant
+  pk: 70
+  fields:
+    chassis: 9
+    name: BJ-3
+
+- model: mwo_battle_center.Variant
+  pk: 71
+  fields:
+    chassis: 9
+    name: BJ-A
+
+- model: mwo_battle_center.Variant
+  pk: 72
+  fields:
+    chassis: 62
+    name: VND-1AA
+
+- model: mwo_battle_center.Variant
+  pk: 73
+  fields:
+    chassis: 62
+    name: VND-1R
+
+- model: mwo_battle_center.Variant
+  pk: 74
+  fields:
+    chassis: 62
+    name: VND-1X
+
+- model: mwo_battle_center.Variant
+  pk: 75
+  fields:
+    chassis: 62
+    name: VND-1SIB
+
+- model: mwo_battle_center.Variant
+  pk: 76
+  fields:
+    chassis: 12
+    name: CN9-A
+
+- model: mwo_battle_center.Variant
+  pk: 77
+  fields:
+    chassis: 12
+    name: CN9-AH
+
+- model: mwo_battle_center.Variant
+  pk: 78
+  fields:
+    chassis: 12
+    name: CN9-AL
+
+- model: mwo_battle_center.Variant
+  pk: 79
+  fields:
+    chassis: 12
+    name: CN9-D
+
+- model: mwo_battle_center.Variant
+  pk: 80
+  fields:
+    chassis: 12
+    name: CN9-YLW
+
+- model: mwo_battle_center.Variant
+  pk: 81
+  fields:
+    chassis: 15
+    name: CRB-20
+
+- model: mwo_battle_center.Variant
+  pk: 82
+  fields:
+    chassis: 15
+    name: CRB-27
+
+- model: mwo_battle_center.Variant
+  pk: 83
+  fields:
+    chassis: 15
+    name: CRB-27B
+
+- model: mwo_battle_center.Variant
+  pk: 84
+  fields:
+    chassis: 15
+    name: CRB-27SL
+
+- model: mwo_battle_center.Variant
+  pk: 85
+  fields:
+    chassis: 19
+    name: ENF-4P
+
+- model: mwo_battle_center.Variant
+  pk: 86
+  fields:
+    chassis: 19
+    name: ENF-4R
+
+- model: mwo_battle_center.Variant
+  pk: 87
+  fields:
+    chassis: 19
+    name: ENF-5D
+
+- model: mwo_battle_center.Variant
+  pk: 88
+  fields:
+    chassis: 19
+    name: ENF-5P
+
+- model: mwo_battle_center.Variant
+  pk: 89
+  fields:
+    chassis: 36
+    name: HBK-4G
+
+- model: mwo_battle_center.Variant
+  pk: 90
+  fields:
+    chassis: 36
+    name: HBK-4H
+
+- model: mwo_battle_center.Variant
+  pk: 91
+  fields:
+    chassis: 36
+    name: HBK-4J
+
+- model: mwo_battle_center.Variant
+  pk: 92
+  fields:
+    chassis: 36
+    name: HBK-4P
+
+- model: mwo_battle_center.Variant
+  pk: 93
+  fields:
+    chassis: 36
+    name: HBK-4SP
+
+- model: mwo_battle_center.Variant
+  pk: 94
+  fields:
+    chassis: 36
+    name: HBK-GI
+
+- model: mwo_battle_center.Variant
+  pk: 95
+  fields:
+    chassis: 57
+    name: TBT-3C
+
+- model: mwo_battle_center.Variant
+  pk: 96
+  fields:
+    chassis: 57
+    name: TBT-5N
+
+- model: mwo_battle_center.Variant
+  pk: 97
+  fields:
+    chassis: 57
+    name: TBT-7K
+
+- model: mwo_battle_center.Variant
+  pk: 98
+  fields:
+    chassis: 57
+    name: TBT-5J
+
+- model: mwo_battle_center.Variant
+  pk: 99
+  fields:
+    chassis: 57
+    name: TBT-7M
+
+- model: mwo_battle_center.Variant
+  pk: 100
+  fields:
+    chassis: 57
+    name: TBT-LDG
+
+- model: mwo_battle_center.Variant
+  pk: 101
+  fields:
+    chassis: 24
+    name: GRF-1N
+
+- model: mwo_battle_center.Variant
+  pk: 102
+  fields:
+    chassis: 24
+    name: GRF-1S
+
+- model: mwo_battle_center.Variant
+  pk: 103
+  fields:
+    chassis: 24
+    name: GRF-2N
+
+- model: mwo_battle_center.Variant
+  pk: 104
+  fields:
+    chassis: 24
+    name: GRF-3M
+
+- model: mwo_battle_center.Variant
+  pk: 105
+  fields:
+    chassis: 24
+    name: GRF-1E
+
+- model: mwo_battle_center.Variant
+  pk: 106
+  fields:
+    chassis: 30
+    name: KTO-18
+
+- model: mwo_battle_center.Variant
+  pk: 107
+  fields:
+    chassis: 30
+    name: KTO-19
+
+- model: mwo_battle_center.Variant
+  pk: 108
+  fields:
+    chassis: 30
+    name: KTO-20
+
+- model: mwo_battle_center.Variant
+  pk: 109
+  fields:
+    chassis: 30
+    name: KTO-GB
+
+- model: mwo_battle_center.Variant
+  pk: 110
+  fields:
+    chassis: 52
+    name: SHD-2D
+
+- model: mwo_battle_center.Variant
+  pk: 111
+  fields:
+    chassis: 52
+    name: SHD-2D2
+
+- model: mwo_battle_center.Variant
+  pk: 112
+  fields:
+    chassis: 52
+    name: SHD-2H
+
+- model: mwo_battle_center.Variant
+  pk: 113
+  fields:
+    chassis: 52
+    name: SHD-2K
+
+- model: mwo_battle_center.Variant
+  pk: 114
+  fields:
+    chassis: 52
+    name: SHD-5M
+
+- model: mwo_battle_center.Variant
+  pk: 115
+  fields:
+    chassis: 52
+    name: SHD-GD
+
+- model: mwo_battle_center.Variant
+  pk: 116
+  fields:
+    chassis: 66
+    name: WVR-6K
+
+- model: mwo_battle_center.Variant
+  pk: 117
+  fields:
+    chassis: 66
+    name: WVR-6R
+
+- model: mwo_battle_center.Variant
+  pk: 118
+  fields:
+    chassis: 66
+    name: WVR-7D
+
+- model: mwo_battle_center.Variant
+  pk: 119
+  fields:
+    chassis: 66
+    name: WVR-7K
+
+- model: mwo_battle_center.Variant
+  pk: 120
+  fields:
+    chassis: 66
+    name: WVR-Q
+
+- model: mwo_battle_center.Variant
+  pk: 121
+  fields:
+    chassis: 25
+    name: IFR-A
+
+- model: mwo_battle_center.Variant
+  pk: 122
+  fields:
+    chassis: 25
+    name: IFR-B
+
+- model: mwo_battle_center.Variant
+  pk: 123
+  fields:
+    chassis: 25
+    name: IFR-C
+
+- model: mwo_battle_center.Variant
+  pk: 124
+  fields:
+    chassis: 25
+    name: IFR-D
+
+- model: mwo_battle_center.Variant
+  pk: 125
+  fields:
+    chassis: 25
+    name: IFR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 126
+  fields:
+    chassis: 51
+    name: SHC-A
+
+- model: mwo_battle_center.Variant
+  pk: 127
+  fields:
+    chassis: 51
+    name: SHC-B
+
+- model: mwo_battle_center.Variant
+  pk: 128
+  fields:
+    chassis: 51
+    name: SHC-P
+
+- model: mwo_battle_center.Variant
+  pk: 129
+  fields:
+    chassis: 51
+    name: SHC-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 130
+  fields:
+    chassis: 37
+    name: HBK-IIC-1
+
+- model: mwo_battle_center.Variant
+  pk: 131
+  fields:
+    chassis: 37
+    name: HBK-IIC-A
+
+- model: mwo_battle_center.Variant
+  pk: 132
+  fields:
+    chassis: 37
+    name: HBK-IIC-B
+
+- model: mwo_battle_center.Variant
+  pk: 133
+  fields:
+    chassis: 37
+    name: HBK-IIC-C
+
+- model: mwo_battle_center.Variant
+  pk: 134
+  fields:
+    chassis: 43
+    name: NVA-A
+
+- model: mwo_battle_center.Variant
+  pk: 135
+  fields:
+    chassis: 43
+    name: NVA-B
+
+- model: mwo_battle_center.Variant
+  pk: 136
+  fields:
+    chassis: 43
+    name: NVA-C
+
+- model: mwo_battle_center.Variant
+  pk: 137
+  fields:
+    chassis: 43
+    name: NVA-D
+
+- model: mwo_battle_center.Variant
+  pk: 138
+  fields:
+    chassis: 43
+    name: NVA-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 139
+  fields:
+    chassis: 43
+    name: NVA-S
+
+- model: mwo_battle_center.Variant
+  pk: 140
+  fields:
+    chassis: 54
+    name: SCR-A
+
+- model: mwo_battle_center.Variant
+  pk: 141
+  fields:
+    chassis: 54
+    name: SCR-B
+
+- model: mwo_battle_center.Variant
+  pk: 142
+  fields:
+    chassis: 54
+    name: SCR-C
+
+- model: mwo_battle_center.Variant
+  pk: 143
+  fields:
+    chassis: 54
+    name: SCR-D
+
+- model: mwo_battle_center.Variant
+  pk: 144
+  fields:
+    chassis: 54
+    name: SCR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 145
+  fields:
+    chassis: 48
+    name: QKD-4G
+
+- model: mwo_battle_center.Variant
+  pk: 146
+  fields:
+    chassis: 48
+    name: QKD-4H
+
+- model: mwo_battle_center.Variant
+  pk: 147
+  fields:
+    chassis: 48
+    name: QKD-5K
+
+- model: mwo_battle_center.Variant
+  pk: 148
+  fields:
+    chassis: 48
+    name: QKD-IV
+
+- model: mwo_battle_center.Variant
+  pk: 149
+  fields:
+    chassis: 50
+    name: RFL-3N
+
+- model: mwo_battle_center.Variant
+  pk: 150
+  fields:
+    chassis: 50
+    name: RFL-3C
+
+- model: mwo_battle_center.Variant
+  pk: 151
+  fields:
+    chassis: 50
+    name: RFL-5D
+
+- model: mwo_battle_center.Variant
+  pk: 152
+  fields:
+    chassis: 50
+    name: RFL-LK
+
+- model: mwo_battle_center.Variant
+  pk: 153
+  fields:
+    chassis: 11
+    name: CPLT-A1
+
+- model: mwo_battle_center.Variant
+  pk: 154
+  fields:
+    chassis: 11
+    name: CPLT-C1
+
+- model: mwo_battle_center.Variant
+  pk: 155
+  fields:
+    chassis: 11
+    name: CPLT-C4
+
+- model: mwo_battle_center.Variant
+  pk: 156
+  fields:
+    chassis: 11
+    name: CPLT-K2
+
+- model: mwo_battle_center.Variant
+  pk: 157
+  fields:
+    chassis: 11
+    name: CPLT-J
+
+- model: mwo_battle_center.Variant
+  pk: 158
+  fields:
+    chassis: 26
+    name: JM6-A
+
+- model: mwo_battle_center.Variant
+  pk: 159
+  fields:
+    chassis: 26
+    name: JM6-DD
+
+- model: mwo_battle_center.Variant
+  pk: 160
+  fields:
+    chassis: 26
+    name: JM6-S
+
+- model: mwo_battle_center.Variant
+  pk: 161
+  fields:
+    chassis: 26
+    name: JM6-FB
+
+- model: mwo_battle_center.Variant
+  pk: 162
+  fields:
+    chassis: 55
+    name: TDR-9S
+
+- model: mwo_battle_center.Variant
+  pk: 163
+  fields:
+    chassis: 55
+    name: TDR-5S
+
+- model: mwo_battle_center.Variant
+  pk: 164
+  fields:
+    chassis: 55
+    name: TDR-5SS
+
+- model: mwo_battle_center.Variant
+  pk: 165
+  fields:
+    chassis: 55
+    name: TDR-9SE
+
+- model: mwo_battle_center.Variant
+  pk: 166
+  fields:
+    chassis: 55
+    name: TDR-TD
+
+- model: mwo_battle_center.Variant
+  pk: 167
+  fields:
+    chassis: 2
+    name: ARC-2R
+
+- model: mwo_battle_center.Variant
+  pk: 168
+  fields:
+    chassis: 2
+    name: ARC-5S
+
+- model: mwo_battle_center.Variant
+  pk: 169
+  fields:
+    chassis: 2
+    name: ARC-5W
+
+- model: mwo_battle_center.Variant
+  pk: 170
+  fields:
+    chassis: 2
+    name: ARC-T
+
+- model: mwo_battle_center.Variant
+  pk: 171
+  fields:
+    chassis: 10
+    name: CTF-0XP
+
+- model: mwo_battle_center.Variant
+  pk: 172
+  fields:
+    chassis: 10
+    name: CTF-1X
+
+- model: mwo_battle_center.Variant
+  pk: 173
+  fields:
+    chassis: 10
+    name: CTF-2X
+
+- model: mwo_battle_center.Variant
+  pk: 174
+  fields:
+    chassis: 10
+    name: CTF-3D
+
+- model: mwo_battle_center.Variant
+  pk: 175
+  fields:
+    chassis: 10
+    name: CTF-4X
+
+- model: mwo_battle_center.Variant
+  pk: 176
+  fields:
+    chassis: 10
+    name: CTF-IM
+
+- model: mwo_battle_center.Variant
+  pk: 177
+  fields:
+    chassis: 23
+    name: GHR-5J
+
+- model: mwo_battle_center.Variant
+  pk: 178
+  fields:
+    chassis: 23
+    name: GHR-5H
+
+- model: mwo_battle_center.Variant
+  pk: 179
+  fields:
+    chassis: 23
+    name: GHR-5N
+
+- model: mwo_battle_center.Variant
+  pk: 180
+  fields:
+    chassis: 23
+    name: GHR-5P
+
+- model: mwo_battle_center.Variant
+  pk: 181
+  fields:
+    chassis: 63
+    name: WHM-6D
+
+- model: mwo_battle_center.Variant
+  pk: 182
+  fields:
+    chassis: 63
+    name: WHM-6R
+
+- model: mwo_battle_center.Variant
+  pk: 183
+  fields:
+    chassis: 63
+    name: WHM-7S
+
+- model: mwo_battle_center.Variant
+  pk: 184
+  fields:
+    chassis: 63
+    name: WHM-BW
+
+- model: mwo_battle_center.Variant
+  pk: 185
+  fields:
+    chassis: 8
+    name: BL-6-KNT
+
+- model: mwo_battle_center.Variant
+  pk: 186
+  fields:
+    chassis: 8
+    name: BL-6B-KNT
+
+- model: mwo_battle_center.Variant
+  pk: 187
+  fields:
+    chassis: 8
+    name: BL-7-KNT
+
+- model: mwo_battle_center.Variant
+  pk: 188
+  fields:
+    chassis: 8
+    name: BL-7-KNT-L
+
+- model: mwo_battle_center.Variant
+  pk: 189
+  fields:
+    chassis: 40
+    name: MAD-3R
+
+- model: mwo_battle_center.Variant
+  pk: 190
+  fields:
+    chassis: 40
+    name: MAD-5D
+
+- model: mwo_battle_center.Variant
+  pk: 191
+  fields:
+    chassis: 40
+    name: MAD-5M
+
+- model: mwo_battle_center.Variant
+  pk: 192
+  fields:
+    chassis: 40
+    name: MAD-BHII
+
+- model: mwo_battle_center.Variant
+  pk: 193
+  fields:
+    chassis: 44
+    name: ON1-K
+
+- model: mwo_battle_center.Variant
+  pk: 194
+  fields:
+    chassis: 44
+    name: ON1-M
+
+- model: mwo_battle_center.Variant
+  pk: 195
+  fields:
+    chassis: 44
+    name: ON1-V
+
+- model: mwo_battle_center.Variant
+  pk: 196
+  fields:
+    chassis: 44
+    name: ON1-VA
+
+- model: mwo_battle_center.Variant
+  pk: 197
+  fields:
+    chassis: 44
+    name: ON1-P
+
+- model: mwo_battle_center.Variant
+  pk: 198
+  fields:
+    chassis: 39
+    name: MDD-A
+
+- model: mwo_battle_center.Variant
+  pk: 199
+  fields:
+    chassis: 39
+    name: MDD-B
+
+- model: mwo_battle_center.Variant
+  pk: 200
+  fields:
+    chassis: 39
+    name: MDD-C
+
+- model: mwo_battle_center.Variant
+  pk: 201
+  fields:
+    chassis: 39
+    name: MDD-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 202
+  fields:
+    chassis: 18
+    name: EBJ-A
+
+- model: mwo_battle_center.Variant
+  pk: 203
+  fields:
+    chassis: 18
+    name: EBJ-B
+
+- model: mwo_battle_center.Variant
+  pk: 204
+  fields:
+    chassis: 18
+    name: EBJ-C
+
+- model: mwo_battle_center.Variant
+  pk: 205
+  fields:
+    chassis: 18
+    name: EBJ-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 206
+  fields:
+    chassis: 33
+    name: HBR-A
+
+- model: mwo_battle_center.Variant
+  pk: 207
+  fields:
+    chassis: 33
+    name: HBR-B
+
+- model: mwo_battle_center.Variant
+  pk: 208
+  fields:
+    chassis: 33
+    name: HBR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 209
+  fields:
+    chassis: 59
+    name: SMN-B
+
+- model: mwo_battle_center.Variant
+  pk: 210
+  fields:
+    chassis: 59
+    name: SMN-C
+
+- model: mwo_battle_center.Variant
+  pk: 211
+  fields:
+    chassis: 59
+    name: SMN-D
+
+- model: mwo_battle_center.Variant
+  pk: 212
+  fields:
+    chassis: 59
+    name: SMN-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 213
+  fields:
+    chassis: 45
+    name: ON1-IIC-1
+
+- model: mwo_battle_center.Variant
+  pk: 214
+  fields:
+    chassis: 45
+    name: ON1-IIC-A
+
+- model: mwo_battle_center.Variant
+  pk: 215
+  fields:
+    chassis: 45
+    name: ON1-IIC-B
+
+- model: mwo_battle_center.Variant
+  pk: 216
+  fields:
+    chassis: 45
+    name: ON1-IIC-C
+
+- model: mwo_battle_center.Variant
+  pk: 217
+  fields:
+    chassis: 56
+    name: TBR-A
+
+- model: mwo_battle_center.Variant
+  pk: 218
+  fields:
+    chassis: 56
+    name: TBR-C
+
+- model: mwo_battle_center.Variant
+  pk: 219
+  fields:
+    chassis: 56
+    name: TBR-D
+
+- model: mwo_battle_center.Variant
+  pk: 220
+  fields:
+    chassis: 56
+    name: TBR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 221
+  fields:
+    chassis: 56
+    name: TBR-S
+
+- model: mwo_battle_center.Variant
+  pk: 222
+  fields:
+    chassis: 5
+    name: AWS-8Q
+
+- model: mwo_battle_center.Variant
+  pk: 223
+  fields:
+    chassis: 5
+    name: AWS-8R
+
+- model: mwo_battle_center.Variant
+  pk: 224
+  fields:
+    chassis: 5
+    name: AWS-8T
+
+- model: mwo_battle_center.Variant
+  pk: 225
+  fields:
+    chassis: 5
+    name: AWS-8V
+
+- model: mwo_battle_center.Variant
+  pk: 226
+  fields:
+    chassis: 5
+    name: AWS-9M
+
+- model: mwo_battle_center.Variant
+  pk: 227
+  fields:
+    chassis: 5
+    name: AWS-PB
+
+- model: mwo_battle_center.Variant
+  pk: 228
+  fields:
+    chassis: 61
+    name: VTR-9B
+
+- model: mwo_battle_center.Variant
+  pk: 229
+  fields:
+    chassis: 61
+    name: VTR-9K
+
+- model: mwo_battle_center.Variant
+  pk: 230
+  fields:
+    chassis: 61
+    name: VTR-9S
+
+- model: mwo_battle_center.Variant
+  pk: 231
+  fields:
+    chassis: 61
+    name: VTR-DS
+
+- model: mwo_battle_center.Variant
+  pk: 232
+  fields:
+    chassis: 67
+    name: ZEU-5S
+
+- model: mwo_battle_center.Variant
+  pk: 233
+  fields:
+    chassis: 67
+    name: ZEU-6S
+
+- model: mwo_battle_center.Variant
+  pk: 234
+  fields:
+    chassis: 67
+    name: ZEU-6T
+
+- model: mwo_battle_center.Variant
+  pk: 235
+  fields:
+    chassis: 67
+    name: ZEU-9S
+
+- model: mwo_battle_center.Variant
+  pk: 236
+  fields:
+    chassis: 67
+    name: ZEU-9S2
+
+- model: mwo_battle_center.Variant
+  pk: 237
+  fields:
+    chassis: 7
+    name: BLR-1D
+
+- model: mwo_battle_center.Variant
+  pk: 238
+  fields:
+    chassis: 7
+    name: BLR-1G
+
+- model: mwo_battle_center.Variant
+  pk: 239
+  fields:
+    chassis: 7
+    name: BLR-1S
+
+- model: mwo_battle_center.Variant
+  pk: 240
+  fields:
+    chassis: 7
+    name: BLR-2C
+
+- model: mwo_battle_center.Variant
+  pk: 241
+  fields:
+    chassis: 7
+    name: BLR-3M
+
+- model: mwo_battle_center.Variant
+  pk: 242
+  fields:
+    chassis: 7
+    name: BLR-3S
+
+- model: mwo_battle_center.Variant
+  pk: 243
+  fields:
+    chassis: 7
+    name: BLR-1GHE
+
+- model: mwo_battle_center.Variant
+  pk: 244
+  fields:
+    chassis: 58
+    name: STK-3F
+
+- model: mwo_battle_center.Variant
+  pk: 245
+  fields:
+    chassis: 58
+    name: STK-3H
+
+- model: mwo_battle_center.Variant
+  pk: 246
+  fields:
+    chassis: 58
+    name: STK-4N
+
+- model: mwo_battle_center.Variant
+  pk: 247
+  fields:
+    chassis: 58
+    name: STK-5M
+
+- model: mwo_battle_center.Variant
+  pk: 248
+  fields:
+    chassis: 58
+    name: STK-5S
+
+- model: mwo_battle_center.Variant
+  pk: 249
+  fields:
+    chassis: 58
+    name: STK-M
+
+- model: mwo_battle_center.Variant
+  pk: 250
+  fields:
+    chassis: 34
+    name: HGN-733C
+
+- model: mwo_battle_center.Variant
+  pk: 251
+  fields:
+    chassis: 34
+    name: HGN-732
+
+- model: mwo_battle_center.Variant
+  pk: 252
+  fields:
+    chassis: 34
+    name: HGN-732B
+
+- model: mwo_battle_center.Variant
+  pk: 253
+  fields:
+    chassis: 34
+    name: HGN-733
+
+- model: mwo_battle_center.Variant
+  pk: 254
+  fields:
+    chassis: 34
+    name: HGN-733P
+
+- model: mwo_battle_center.Variant
+  pk: 255
+  fields:
+    chassis: 34
+    name: HGN-HM
+
+- model: mwo_battle_center.Variant
+  pk: 256
+  fields:
+    chassis: 41
+    name: MAL-1P
+
+- model: mwo_battle_center.Variant
+  pk: 257
+  fields:
+    chassis: 41
+    name: MAL-1R
+
+- model: mwo_battle_center.Variant
+  pk: 258
+  fields:
+    chassis: 41
+    name: MAL-2P
+
+- model: mwo_battle_center.Variant
+  pk: 259
+  fields:
+    chassis: 41
+    name: MAL-MX90
+
+- model: mwo_battle_center.Variant
+  pk: 260
+  fields:
+    chassis: 4
+    name: AS7-D
+
+- model: mwo_battle_center.Variant
+  pk: 261
+  fields:
+    chassis: 4
+    name: AS7-D-DC
+
+- model: mwo_battle_center.Variant
+  pk: 262
+  fields:
+    chassis: 4
+    name: AS7-K
+
+- model: mwo_battle_center.Variant
+  pk: 263
+  fields:
+    chassis: 4
+    name: AS7-RS
+
+- model: mwo_battle_center.Variant
+  pk: 264
+  fields:
+    chassis: 4
+    name: AS7-S
+
+- model: mwo_battle_center.Variant
+  pk: 265
+  fields:
+    chassis: 4
+    name: AS7-BH
+
+- model: mwo_battle_center.Variant
+  pk: 266
+  fields:
+    chassis: 29
+    name: KGC-000
+
+- model: mwo_battle_center.Variant
+  pk: 267
+  fields:
+    chassis: 29
+    name: KGC-0000
+
+- model: mwo_battle_center.Variant
+  pk: 268
+  fields:
+    chassis: 29
+    name: KGC-000B
+
+- model: mwo_battle_center.Variant
+  pk: 269
+  fields:
+    chassis: 22
+    name: GAR-A
+
+- model: mwo_battle_center.Variant
+  pk: 270
+  fields:
+    chassis: 22
+    name: GAR-B
+
+- model: mwo_battle_center.Variant
+  pk: 271
+  fields:
+    chassis: 22
+    name: GAR-C
+
+- model: mwo_battle_center.Variant
+  pk: 272
+  fields:
+    chassis: 22
+    name: GAR-D
+
+- model: mwo_battle_center.Variant
+  pk: 273
+  fields:
+    chassis: 22
+    name: GAR-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 274
+  fields:
+    chassis: 64
+    name: WHK-A
+
+- model: mwo_battle_center.Variant
+  pk: 275
+  fields:
+    chassis: 64
+    name: WHK-B
+
+- model: mwo_battle_center.Variant
+  pk: 276
+  fields:
+    chassis: 64
+    name: WHK-C
+
+- model: mwo_battle_center.Variant
+  pk: 277
+  fields:
+    chassis: 64
+    name: WHK-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 278
+  fields:
+    chassis: 34
+    name: HGN-IIC-1
+
+- model: mwo_battle_center.Variant
+  pk: 279
+  fields:
+    chassis: 34
+    name: HGN-IIC-A
+
+- model: mwo_battle_center.Variant
+  pk: 280
+  fields:
+    chassis: 34
+    name: HGN-IIC-B
+
+- model: mwo_battle_center.Variant
+  pk: 281
+  fields:
+    chassis: 34
+    name: HGN-IIC-C
+
+- model: mwo_battle_center.Variant
+  pk: 282
+  fields:
+    chassis: 20
+    name: EXE-A
+
+- model: mwo_battle_center.Variant
+  pk: 283
+  fields:
+    chassis: 20
+    name: EXE-B
+
+- model: mwo_battle_center.Variant
+  pk: 284
+  fields:
+    chassis: 20
+    name: EXE-C
+
+- model: mwo_battle_center.Variant
+  pk: 285
+  fields:
+    chassis: 20
+    name: EXE-D
+
+- model: mwo_battle_center.Variant
+  pk: 286
+  fields:
+    chassis: 20
+    name: EXE-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 287
+  fields:
+    chassis: 16
+    name: DWF-A
+
+- model: mwo_battle_center.Variant
+  pk: 288
+  fields:
+    chassis: 16
+    name: DWF-B
+
+- model: mwo_battle_center.Variant
+  pk: 289
+  fields:
+    chassis: 16
+    name: DWF-PRIME
+
+- model: mwo_battle_center.Variant
+  pk: 290
+  fields:
+    chassis: 16
+    name: DWF-S
+
+- model: mwo_battle_center.Variant
+  pk: 291
+  fields:
+    chassis: 16
+    name: DWF-W
+
+- model: mwo_battle_center.Variant
+  pk: 292
+  fields:
+    chassis: 16
+    name: DWF-W
+
+- model: mwo_battle_center.Variant
+  pk: 293
+  fields:
+    chassis: 32
+    name: KDK-1
+
+- model: mwo_battle_center.Variant
+  pk: 294
+  fields:
+    chassis: 32
+    name: KDK-2
+
+- model: mwo_battle_center.Variant
+  pk: 295
+  fields:
+    chassis: 32
+    name: KDK-3
+
+- model: mwo_battle_center.Variant
+  pk: 296
+  fields:
+    chassis: 32
+    name: KDK-4
+
+- model: mwo_battle_center.Variant
+  pk: 297
+  fields:
+    chassis: 32
+    name: KDK-5
+
+- model: mwo_battle_center.Variant
+  pk: 298
+  fields:
+    chassis: 32
+    name: KDK-SB
